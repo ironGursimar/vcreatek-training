@@ -63,11 +63,7 @@ def main():
     print(f"Python Version: {sys.version}")
 
 
-# Entry point of the program.
-# This ensures main() runs only when this file
-# is executed directly.
-if __name__ == "__main__":
-    main()
+
 ```
 
 ---
@@ -114,14 +110,6 @@ Uses an f-string to display the Python interpreter version stored in `sys.versio
 
 ---
 
-### Entry Point
-
-```python
-if __name__ == "__main__":
-    main()
-```
-
-Ensures that the program executes only when `main.py` is run directly.
 
 ---
 
@@ -238,7 +226,6 @@ Through this lab, I learned how to:
 - Understand the purpose of `venv`.
 - Use Python modules such as `sys`.
 - Work with f-strings.
-- Use the `if __name__ == "__main__":` entry point.
 - Troubleshoot common WSL and Python setup issues.
 
 ---
