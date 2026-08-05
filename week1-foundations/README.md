@@ -1,4 +1,4 @@
-# Python Lab 01 - Python Environment Setup and Basic Program
+# week1-foundations - Python Environment Setup and Basic Program
 
 ## Overview
 
@@ -33,7 +33,7 @@ The objectives of this lab are:
 ## Project Structure
 
 ```text
-python-lab-01/
+week1-foundations/
 │
 ├── .venv/
 ├── .gitignore
