@@ -93,4 +93,3 @@ python-lab-01/
 
 **Gursimar**
 
-Vcreatek Training Program
