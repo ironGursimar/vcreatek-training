@@ -80,15 +80,9 @@ Imports Python's built-in `sys` module, which provides information about the Pyt
 
 ---
 
-### main() Function
 
-```python
-def main():
-```
 
-Defines the main function of the program. All program logic is placed inside this function for better organization and maintainability.
 
----
 
 ### Printing the Name
 
