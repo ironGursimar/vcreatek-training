@@ -39,14 +39,14 @@ week1-foundations/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-└── main.py
+└── hello.py
 ```
 
 ---
 
 ## Source Code
 
-### main.py
+### hello.py
 
 ```python
 import sys
@@ -122,7 +122,7 @@ source .venv/bin/activate
 ### Execute the Program
 
 ```bash
-python main.py
+python hello.py
 ```
 
 ---
