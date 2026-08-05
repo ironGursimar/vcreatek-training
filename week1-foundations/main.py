@@ -10,4 +10,3 @@ def main():
 
     # Print the Python interpreter version
     print(f"Python Version: {sys.version}")
-
