@@ -11,9 +11,3 @@ def main():
     # Print the Python interpreter version
     print(f"Python Version: {sys.version}")
 
-
-# Entry point of the program.
-# This ensures main() runs only when this file
-# is executed directly.
-if __name__ == "__main__":
-    main()
