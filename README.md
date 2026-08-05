@@ -13,7 +13,7 @@ vcreatek-training/
 │
 ├── README.md
 │
-└── python-lab-01/
+└── week1-foundations/
     ├── README.md
     ├── main.py
     ├── requirements.txt
@@ -27,7 +27,7 @@ vcreatek-training/
 | Module | Description | Status |
 |---------|-------------|--------|
 | Assignment 00 | Python Version Compatibility | ✅ Completed |
-| Python Lab 01 | Python Environment Setup and Basic Program | ✅ Completed |
+| week1-foundations | Python Environment Setup and Basic Program | ✅ Completed |
 
 ---
 
@@ -43,12 +43,12 @@ Verify Python version compatibility and understand Python version management.
 
 ---
 
-# Python Lab 01
+# week1-foundations
 
 **Folder**
 
 ```
-python-lab-01/
+week1-foundations/
 ```
 
 **Topics Covered**
