@@ -111,8 +111,6 @@ Uses an f-string to display the Python interpreter version stored in `sys.versio
 ---
 
 
----
-
 ## How to Run the Program
 
 ### Activate the Virtual Environment
