@@ -1,0 +1,8 @@
+Name,Age,Department,Salary,JoinDate
+Rahul,23,IT,40000,2024-01-10
+Priya,,HR,45000,2024-02-15
+Aman,twenty,IT,50000,2024-03-01
+Simran,25,Sales,9999999,invalid
+Rahul,23,IT,40000,2024-01-10
+Karan,29,,55000,2024-04-20
+Neha,27,HR,,2024-05-11
